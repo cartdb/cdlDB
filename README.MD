@@ -1,0 +1,10 @@
+# Games
+- Balloon Fight (USA) (29.170735677083332%)
+- Donkey Kong (World) (Rev 1) (8.036295572916668%)
+- Dr. Mario (Japan, USA) (En) (Rev 1) (42.144775390625%)
+- Legend of Zelda, The (USA) (Rev 1) (64.34860229492188%)
+- Mario Bros. (World) (24.98779296875%)
+- Pac-Man (USA) (Namco) (48.72639973958333%)
+- Super Mario Bros. (World) (1.1767578125%)
+- Super Mario Bros. 2 (USA) (Rev 1) (79.36248779296875%)
+- Super Mario Bros. 3 (USA) (Rev 1) (68.96031697591147%)
