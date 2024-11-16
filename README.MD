@@ -1,7 +1,7 @@
 # Games
 - Balloon Fight (USA) (27.242024739583332%)
 - Donkey Kong (World) (Rev 1) (8.036295572916668%)
-- Dr. Mario (Japan, USA) (En) (Rev 1) (40.203857421875%)
+- Dr. Mario (Japan, USA) (En) (Rev 1) (37.58392333984375%)
 - Excitebike (Japan, USA) (En) (35.04638671875%)
 - Kid Icarus (USA, Europe) (Rev 1) (68.3319091796875%)
 - Kirby's Adventure (USA) (Rev 1) (77.72343953450522%)
@@ -10,5 +10,5 @@
 - Pac-Man (USA) (Namco) (48.72639973958333%)
 - Super Mario Bros. (World) (0.9033203125%)
 - Super Mario Bros. 2 (USA) (Rev 1) (73.81820678710938%)
-- Super Mario Bros. 3 (USA) (Rev 1) (64.48694864908853%)
+- Super Mario Bros. 3 (USA) (Rev 1) (56.6253662109375%)
 - Tecmo Bowl (USA) (Rev 1) (71.55075073242188%)
