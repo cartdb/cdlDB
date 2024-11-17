@@ -11,5 +11,6 @@
 - Pac-Man (USA) (Namco) (45.96354166666667%)
 - Super Mario Bros. (World) (0.9033203125%)
 - Super Mario Bros. 2 (USA) (Rev 1) (73.81820678710938%)
-- Super Mario Bros. 3 (USA) (Rev 1) (50.31407674153646%)
+- Super Mario Bros. 3 (USA) (Rev 1) (46.27278645833333%)
 - Tecmo Bowl (USA) (Rev 1) (71.55075073242188%)
+- Zelda II - The Adventure of Link (USA) (96.79756164550781%)
