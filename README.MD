@@ -4,6 +4,7 @@
 - Donkey Kong Jr. (World) (Rev 1) (45.39388020833333%)
 - Dr. Mario (Japan, USA) (En) (Rev 1) (37.58392333984375%)
 - Excitebike (Japan, USA) (En) (12.215169270833332%)
+- Galaga - Demons of Death (USA) (59.2919921875%)
 - Ice Climber (USA, Europe, Korea) (En) (4.1748046875%)
 - Kid Icarus (USA, Europe) (Rev 1) (66.03317260742188%)
 - Kirby's Adventure (USA) (Rev 1) (77.72343953450522%)
