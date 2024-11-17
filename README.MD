@@ -2,7 +2,7 @@
 - Balloon Fight (USA) (13.578287760416666%)
 - Donkey Kong (World) (Rev 1) (7.967122395833333%)
 - Donkey Kong Jr. (World) (Rev 1) (45.39388020833333%)
-- Dr. Mario (Japan, USA) (En) (Rev 1) (37.58392333984375%)
+- Dr. Mario (Japan, USA) (En) (Rev 1) (37.58544921875%)
 - Excitebike (Japan, USA) (En) (12.215169270833332%)
 - Final Fantasy (USA) (22.124099731445312%)
 - Galaga - Demons of Death (USA) (59.2919921875%)
