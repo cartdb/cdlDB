@@ -1,5 +1,5 @@
 # Games
-- Balloon Fight (USA) (13.578287760416666%)
+- Balloon Fight (USA) (13.224283854166666%)
 - Donkey Kong (World) (Rev 1) (7.967122395833333%)
 - Donkey Kong Jr. (World) (Rev 1) (45.39388020833333%)
 - Dr. Mario (Japan, USA) (En) (Rev 1) (37.40234375%)
