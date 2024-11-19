@@ -12,7 +12,6 @@
 - Legend of Zelda, The (USA) (Rev 1) (32.0281982421875%)
 - Mario Bros. (World) (12.935384114583334%)
 - Metroid (USA) (28.68499755859375%)
-- output (0.0%)
 - Pac-Man (USA) (Namco) (45.96354166666667%)
 - Super Mario Bros. (World) (0.8984374999999999%)
 - Super Mario Bros. 2 (USA) (Rev 1) (73.56834411621094%)
